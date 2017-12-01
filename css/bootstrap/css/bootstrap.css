@@ -8288,6 +8288,11 @@ a.bg-dark:focus, a.bg-dark:hover {
   color: #fff !important;
 }
 
+.text-gold {
+    color: #FFD700 !important;
+}
+
+
 .text-primary {
   color: #007bff !important;
 }
