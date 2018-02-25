@@ -9,7 +9,7 @@ var config ={
 };
 var dataspace = 'Users/TestUser/1/Notes';
 firebase.initializeApp(config);
-window.alert("ok");
+window.alert("Welcome to Scroll!");
 
 console.log(firebase);
 
